@@ -21,7 +21,6 @@ function App() {
             <PrivateRoute logged={logged}>
             <Dashboard />
             </PrivateRoute>
-            
             } />
         </Routes>
       </div>
